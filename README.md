@@ -7,7 +7,8 @@ Installation
 ------------
 
  - Copy and paste the following as the URL for a new bookmark:
-   `javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://github.com/mikesmullin/Text-Gridder/raw/master/text.gridder.js';})();`
+
+    javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://github.com/mikesmullin/Text-Gridder/raw/master/text.gridder.js';})();
 
 This would be easier if you could drag and drop a link to your bookmarks, but github specifically disallows javascript links for security reasons. Sorry.
 
@@ -28,3 +29,5 @@ Errata
 ------
 
 For more information, see docblock comments in text.gridder.js.
+
+javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://github.com/mikesmullin/Text-Gridder/raw/master/text.gridder.js';})();
