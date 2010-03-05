@@ -6,8 +6,10 @@ Text Gridder
 Installation
 ------------
 
- - Drag following link to your bookmark bar:
-   [Text Gridder](javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://github.com/mikesmullin/Text-Gridder/raw/master/text.gridder.js';})();)
+ - Copy and paste the following as the URL for a new bookmark:
+   `javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://github.com/mikesmullin/Text-Gridder/raw/master/text.gridder.js';})();`
+
+This would be easier if you could drag and drop a link to your bookmarks, but github specifically disallows javascript links for security reasons. Sorry.
 
 Usage
 -----
