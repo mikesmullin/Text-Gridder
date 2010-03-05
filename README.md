@@ -18,6 +18,14 @@ Usage
  - Click the bookmark link on the page you want to apply grid.
  - Enter a baseline in pixels. (Default is 18px)
 
+Example
+-------
+
+ - Visit [Wilson's demo page](http://www.alistapart.com/d/settingtypeontheweb/example_grid.html) from the [A List Apart article](http://www.alistapart.com/articles/settingtypeontheweb).
+ - Click your new bookmark to activate the JavaScript magic.
+ - Answer "18px" to the prompt that appears, or leave as-is because that should be the default.
+ - Viola! Observe closely as the red lines directly overlay the gridbg.gif ones Wilson had originally designed.
+
 Credits
 -------
 
