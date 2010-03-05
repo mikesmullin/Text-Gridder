@@ -29,5 +29,3 @@ Errata
 ------
 
 For more information, see docblock comments in text.gridder.js.
-
-javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://github.com/mikesmullin/Text-Gridder/raw/master/text.gridder.js';})();
