@@ -6,7 +6,7 @@ Text Gridder
 Installation
 ------------
 
- - Copy and paste the following as the URL for a new bookmark:
+Copy and paste the following as the URL for a new bookmark:
 
     javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://github.com/mikesmullin/Text-Gridder/raw/master/text.gridder.js';})();
 
